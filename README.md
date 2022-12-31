@@ -1,3 +1,8 @@
+Ready. Sell. Grow. For u *_*
+
+FlashGelistirici is a modular, scalable and ultra-fast open-source all-in-one eCommerce platform powered by ASP.NET Core 6, Entity Framework, Vue.js, Sass and Bootstrap. Create multi-store / multi-language / multi-currency shops or build any commerce solution you can imagine.
+
+
 - 👋 Hi, I’m @MuhammetKubat
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
