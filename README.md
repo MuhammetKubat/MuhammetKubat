@@ -18,25 +18,24 @@ FlashGelistirici is a modular, scalable and ultra-fast open-source all-in-one eC
 ## Setup-Kurulum
 
 
-
-## Bash-Run-Helping
-```
-
-```
-- 👋 Hi, I’m @MuhammetKubat
-- 👀 I’m interested in VsCode 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on __-
-- 📫 How to reach me @
-
-## Detail-Design-Açıklama  
-![image](https://user-images.githubusercontent.com/38388188/210100624-159d6470-f056-4a6f-b55e-86d7e4fb3a49.png)
-
 - 👋 Hi, I’m @MuhammetKubat
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+## Bash-Run-Helping
+```
+#!/bin/bash
+echo "Enter Your Name"
+read name
+echo "Welcome $name to FlashGelistirici GitHub info."
+```
+
+
+## Detail-Design-Açıklama  
+![image](https://user-images.githubusercontent.com/38388188/210100624-159d6470-f056-4a6f-b55e-86d7e4fb3a49.png)
 
 <!---
 MuhammetKubat/MuhammetKubat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
