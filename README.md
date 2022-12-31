@@ -1,3 +1,40 @@
+
+## Table of contents
+* [ Genel Bilgi ](#Genel-Bilgi )
+* [Teknoloji Pac.](#Teknoloji-Pac.)
+* [Setup | Kurulum](#Setup-Kurulum)
+* [Dotnet-Run-Sureci](#Dotnet-Run-Sureci)
+* [Support-Destek](#Support-Destek)
+* [Detail | Design |Açıklama ](#Detail-Design-Açıklama )
+
+## Genel Bilgi 
+
+## Teknoloji-Pac.
+
+## Setup-Kurulum
+
+
+
+## Bash-Run-Helping
+```
+
+```
+	
+## Support-Destek 
+1.Install .NET on Windows|
+	✔️ Supported	 |
+          7 (STS)	 |
+          6 (LTS)	 |
+-------------------------|
+
+- 👋 Hi, I’m @MuhammetKubat
+- 👀 I’m interested in VsCode 
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on __-
+- 📫 How to reach me @
+
+## Detail-Design-Açıklama  
+![image](https://user-images.githubusercontent.com/38388188/210100624-159d6470-f056-4a6f-b55e-86d7e4fb3a49.png)
 Ready. Sell. Grow. For u *_*
 
 FlashGelistirici is a modular, scalable and ultra-fast open-source all-in-one eCommerce platform powered by ASP.NET Core 6, Entity Framework, Vue.js, Sass and Bootstrap. Create multi-store / multi-language / multi-currency shops or build any commerce solution you can imagine.
